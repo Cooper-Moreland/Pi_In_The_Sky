@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-*[planning](#planning)
+* [planning](#planning)
 
 ## Planning
 
