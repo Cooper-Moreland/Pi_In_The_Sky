@@ -17,6 +17,8 @@
 
 ## overview
 
+Our project is based on Angry Birds. There will be a green pig with a crown our projectile (designed as Chuck) will try to hit. Altitude and time will be recorded using an altimeter and the pico will have foam around it to prevent it from breaking on impact. We will make a graph from the data after it's done to show the flight path by recording how far the projectile traveled in the x-direction. Basic physics can be used to find what angle and power to use to land at a specific place.
+
 ## cad_renderings
 
 ## images
