@@ -2,14 +2,30 @@
 
 ## Table of Contents
 
-* [planning](#planning)
+* [overview](#overview)
+* [cad renderings](#cad_renderings)
+* [images](#images)
+* [materials used](#materials_used)
+* [wiring diagram](#wiring_diagram)
 * [code](#code)
+* [obstacles/errors](#obstacles/errors)
+* [tips](#tips)
 
-## [Planning Document](https://docs.google.com/document/d/1hiuoh_CVGpjotOG-Ltabho9DP55JUnkYqFjeEnz9gQs/edit?usp=sharing)
+## [planning document](https://docs.google.com/document/d/1hiuoh_CVGpjotOG-Ltabho9DP55JUnkYqFjeEnz9gQs/edit?usp=sharing)
 
-## [Onshape Document](https://cvilleschools.onshape.com/documents/b313d57e8a07c5155702993d/w/2811ce274d49858bedab9adb/e/824d5d8ea7da9445accad4a9?renderMode=0&uiState=659ee2e4b4bc340ccd11b5aa)
+## [onshape document](https://cvilleschools.onshape.com/documents/b313d57e8a07c5155702993d/w/2811ce274d49858bedab9adb/e/824d5d8ea7da9445accad4a9?renderMode=0&uiState=659ee2e4b4bc340ccd11b5aa)
 
-## [Code](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi%20in%20the%20sky/pi%20in%20the%20sky.py)
+## overview
+
+## cad_renderings
+
+## images
+
+## materials_used
+
+## wiring_diagram
+
+## [code](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi%20in%20the%20sky/pi%20in%20the%20sky.py)
 
 ```python
 # type: ignore
@@ -57,3 +73,7 @@ while True:
         time.sleep(1.0)
 
 ```
+
+## obstacles/errors
+
+## tips
