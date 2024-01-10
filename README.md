@@ -8,7 +8,7 @@
 * [materials used](#materials_used)
 * [wiring diagram](#wiring_diagram)
 * [code](#code)
-* [obstacles/errors](#obstacles/errors)
+* [obstacles/errors](#obstacles)
 * [tips](#tips)
 
 ## [planning document](https://docs.google.com/document/d/1hiuoh_CVGpjotOG-Ltabho9DP55JUnkYqFjeEnz9gQs/edit?usp=sharing)
@@ -74,6 +74,6 @@ while True:
 
 ```
 
-## obstacles/errors
+## obstacles
 
 ## tips
