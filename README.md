@@ -27,6 +27,8 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 
 ## wiring_diagram
 
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi_in_the_sky_wiring_diagram.png?raw=true)
+
 ## [code](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi%20in%20the%20sky/pi%20in%20the%20sky.py)
 
 ```python
