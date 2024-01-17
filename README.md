@@ -25,6 +25,10 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 
 ## materials_used
 
+* raspberry pico
+* battery
+* altimeter
+
 ## wiring_diagram
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi_in_the_sky_wiring_diagram.png?raw=true)
