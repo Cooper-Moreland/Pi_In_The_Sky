@@ -30,7 +30,7 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 * altimeter
 * panel mount switch
 * panel mount led
-* laser cut material
+* acrylic
 * 3D print material
 
 ## wiring_diagram
