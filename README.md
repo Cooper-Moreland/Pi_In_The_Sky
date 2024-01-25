@@ -28,6 +28,10 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 * raspberry pico
 * battery
 * altimeter
+* panel mount switch
+* panel mount led
+* laser cut material
+* 3D print material
 
 ## wiring_diagram
 
