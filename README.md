@@ -21,6 +21,10 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 
 ## cad_renderings
 
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi_body.png?raw=true)
+
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi_body_2.png?raw=true)
+
 ## images
 
 ## materials_used
@@ -28,6 +32,10 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 * raspberry pico
 * battery
 * altimeter
+* panel mount switch
+* panel mount led
+* acrylic
+* 3D print material
 
 ## wiring_diagram
 
@@ -85,3 +93,5 @@ while True:
 ## obstacles
 
 ## tips
+
+leave a hole for the panel mount switch and led and a hole to unplug and replug the pico to fix any mistakes in the code. We left 0.18 inches of diameter in the PVC pipe to fit the styrofoam around. The holes for the screws are 2.8mm to have them have a snug fit so it can hold the cap onto the bottom of chuck/the projectile. 
