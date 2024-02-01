@@ -36,6 +36,8 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 * panel mount led
 * acrylic
 * 3D print material
+* adafruit picowbell
+* wires
 
 ## wiring_diagram
 
