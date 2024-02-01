@@ -84,7 +84,7 @@ while True:
 
 ## obstacles
 
-I had exact sizing for the laser cut piece that held the pico to slide into the 3d printed rocket but 3d print isn't exact so we had to sand the acrylic to have it fit well.
+I had exact sizing for the laser cut piece that held the pico to slide into the 3d printed rocket but 3d print isn't exact so we had to sand the acrylic to have it fit well. Having to wait for 10 blinks to indicate data mode is annoying, so I changed it to 5 blinks and reduced the total "time.sleep" value for the boot.py file, making the measurement of altitude more consistent. To switch between code and data mode unplug the pico first then flip the switch connected to GP0. The time intervals for each altitude reading aren't exactly a second, I had to change the values of "time.sleep" to make it as accurate as possible.
 
 ## tips
 
