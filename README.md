@@ -84,6 +84,8 @@ while True:
 
 ## obstacles
 
+I had exact sizing for the laser cut piece that held the pico to slide into the 3d printed rocket but 3d print isn't exact so we had to sand the acrylic to have it fit well.
+
 ## tips
 
 leave a hole for the panel mount switch and led and a hole to unplug and replug the pico to fix any mistakes in the code. We left 0.18 inches of diameter in the PVC pipe to fit the styrofoam around. The holes for the screws are 2.8mm to have them have a snug fit so it can hold the cap onto the bottom of chuck/the projectile. 
