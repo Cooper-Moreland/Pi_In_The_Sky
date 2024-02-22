@@ -24,7 +24,7 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/Screenshot%202024-02-22%20131844.png?raw=true)
 
-![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/pi_body_2.png?raw=true)
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/Screenshot%202024-02-22%20131906.png?raw=true)
 
 ## images
 
