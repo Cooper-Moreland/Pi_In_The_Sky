@@ -45,6 +45,8 @@ before adding decoration
 * 3D print material
 * adafruit picowbell
 * wires
+* paper
+* colored markers
 
 ## wiring_diagram
 
