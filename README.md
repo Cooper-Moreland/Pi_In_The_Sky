@@ -32,7 +32,7 @@ Our project is based on Angry Birds. There will be a green pig with a crown our 
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/IMG_2604.jpg?raw=true)
 
-before adding styrofoam
+before adding decoration
 
 ## materials_used
 
