@@ -1,6 +1,6 @@
 # Pi_In_The_Sky
 
-## Table of Contents
+## table of contents
 
 * [overview](#overview)
 * [cad renderings](#cad_renderings)
