@@ -97,15 +97,6 @@ while True:
 
 At 80 psi with angle of around 45 degrees the bird had a horizantal displacement of around 11-12 steps.
 
-197.194	-- 6.18759
-197.808	-- 6.7501
-198.42	-- 7.56261
-199.036	-- 11.1877
-199.654	-- 15.4377
-200.271	-- 16.0002
-200.884	-- 14.5627
-201.504	-- 7.68762
-
 ![image](https://github.com/Cooper-Moreland/Pi_In_The_Sky/assets/71406906/fefe4328-a9b5-4556-852d-5f44a4295d63)
 
 
