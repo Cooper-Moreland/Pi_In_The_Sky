@@ -9,6 +9,7 @@
 * [wiring diagram](#wiring_diagram)
 * [code](#code)
 * [data](#data)
+* [video](#video)
 * [obstacles/errors](#obstacles)
 * [tips](#tips)
 
@@ -101,6 +102,10 @@ At 80 psi with angle of around 45 degrees the bird had a horizantal displacement
 
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/altitude%20(meters)%20vs.%20time%20(seconds).png?raw=true)
+
+## video
+
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/IMG_26891-ezgif.com-optimize.gif?raw=true)
 
 ## obstacles
 
