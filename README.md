@@ -107,6 +107,10 @@ At 80 psi with angle of around 45 degrees the bird had a horizantal displacement
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/IMG_26891-ezgif.com-optimize.gif?raw=true)
 
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/DJI_0638-ezgif.com-video-to-gif-converter.gif?raw=true)
+
+[River L.]() took the drone video
+
 ## obstacles
 
 I had exact sizing for the laser cut piece that held the pico to slide into the 3d printed rocket but 3d print isn't exact so we had to sand the acrylic to have it fit well. Having to wait for 10 blinks to indicate data mode is annoying, so I changed it to 5 blinks and reduced the total "time.sleep" value for the boot.py file, making the measurement of altitude more consistent. To switch between code and data mode unplug the pico first then flip the switch connected to GP0. The time intervals for each altitude reading aren't exactly a second, I had to change the values of "time.sleep" to make it as accurate as possible. The picowbell seems confusing  but you just solder each pin to the corresponding one on the pico and wire it the exact same as on a regular breadboard. 3d print material prints thicker than it is in onshape so leave some room (about 0,4mm) between object if they need to slide in unpainfully.
