@@ -109,7 +109,7 @@ At 80 psi with angle of around 45 degrees the bird had a horizantal displacement
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/DJI_0638-ezgif.com-video-to-gif-converter.gif?raw=true)
 
-[River L.]() took the drone video
+[River L.](https://rivques.dev/) took the drone video
 
 ## obstacles
 
