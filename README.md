@@ -96,7 +96,7 @@ while True:
 
 ## data
 
-At 80 psi with angle of around 45 degrees the bird had a horizantal displacement of around 11-12 steps.
+At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps.
 
 ![image](https://github.com/Cooper-Moreland/Pi_In_The_Sky/assets/71406906/fefe4328-a9b5-4556-852d-5f44a4295d63)
 
@@ -118,4 +118,4 @@ I had exact sizing for the laser cut piece that held the pico to slide into the 
 
 ## tips
 
-leave a hole for the panel mount switch and led and a hole to unplug and replug the pico to fix any mistakes in the code. We left 0.18 inches of diameter in the PVC pipe to fit the styrofoam around. The holes for the screws are 2.8mm to have them have a snug fit so it can hold the cap onto the bottom of chuck/the projectile. [helpful website for the picowbell](https://learn.adafruit.com/picowbell-proto?view=all) which is the attachable breadboard to the pico via soldering. On the altimeter connect power to Vin not 3vo. The battery pack has its own switch to turn the whole system on and off so no need to wire a new panel mount switch. data mode for my boot.py fil is 5 quick blinks, code mode is three long blinks.
+leave a hole for the panel mount switch and led and a hole to unplug and replug the pico to fix any mistakes in the code. We left 0.18 inches of diameter in the PVC pipe to fit the styrofoam around. The holes for the screws are 2.8mm to have them have a snug fit so it can hold the cap onto the bottom of Chuck/the projectile. [A helpful website for the picowbell](https://learn.adafruit.com/picowbell-proto?view=all) which is the attachable breadboard to the pico via soldering. On the altimeter connect power to Vin not 3vo. The battery pack has its own switch to turn the whole system on and off so no need to wire a new panel mount switch. data mode for my boot.py fil is 5 quick blinks, code mode is three long blinks.
