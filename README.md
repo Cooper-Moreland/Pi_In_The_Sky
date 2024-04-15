@@ -19,7 +19,7 @@
 
 ## overview
 
-Our project is based on Angry Birds. There will be a green pig with a crown our projectile (designed as Chuck) will try to hit. Altitude and time will be recorded using an altimeter and the pico will be screwed in to prevent it from breaking on impact. We will make a graph from the data after it's done to show the flight path by recording how far the projectile traveled in the x-direction. Basic physics can be used to find what angle and power to use to land at a specific place.
+Our project is based on Angry Birds. There will be a green pig with a crown our projectile (designed as Chuck) will try to hit. Altitude and time will be recorded using an altimeter and the pico will be screwed in to prevent it from breaking on impact. We will make a graph from the data after it's done to show the flight path by recording how far the projectile traveled in the x-direction. Physics can be used to find what angle and power to use to land at a specific place (or trial and error).
 
 ## cad_renderings
 
@@ -96,7 +96,7 @@ while True:
 
 ## data
 
-At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps.
+At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps. MAKE AN XY-GRAPH TO SHOW ACCURATE FLIGHT PATH FOR NEXT LAUNCH.
 
 ![image](https://github.com/Cooper-Moreland/Pi_In_The_Sky/assets/71406906/fefe4328-a9b5-4556-852d-5f44a4295d63)
 
