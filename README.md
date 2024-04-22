@@ -107,6 +107,8 @@ At 80 psi with an angle of around 45 degrees, the bird had a horizontal displace
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/altitude%20(meters)%20vs.%20time%20(seconds).png?raw=true)
 
+This is the data for our second launch with the x-values corresponding to total time and the y-values corresponding to altitude. 
+
 ## video
 
 ![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/IMG_26891-ezgif.com-optimize.gif?raw=true)
