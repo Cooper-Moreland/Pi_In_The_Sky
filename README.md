@@ -105,7 +105,7 @@ At 80 psi with an angle of around 45 degrees, the bird had a horizontal displace
 ![image](https://github.com/Cooper-Moreland/Pi_In_The_Sky/assets/71406906/fefe4328-a9b5-4556-852d-5f44a4295d63)
 
 
-![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/altitude%20(meters)%20vs.%20time%20(seconds).png?raw=true)
+![1](https://github.com/Cooper-Moreland/Pi_In_The_Sky/blob/main/Screenshot%202024-04-30%20132022.png?raw=true)
 
 This is the data for our second launch with the x-values corresponding to total time and the y-values corresponding to altitude. The starting altitude before launch was around 6 to 7 meters so that can be considered the 0. The altitude measured by the altimeter is somewhat inconsistent so the standard error is around 0.8 meters for each reading. the first straight line on the graph is inconsistent with the rest because the launch happened somewhere between the two readings but I can't make it more accurate since I made the time between readings as little as the device would allow. On the next launch, I will also record horizontal displacement to get an x and y position graph and also include a velocity and acceleration graph. 
 
