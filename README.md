@@ -92,7 +92,7 @@ while True:
     with open("/data.csv", "a") as datalog:
         csv_string = f"{time_elapsed},{altitude}\n"
         # f string showing time and altitude
-        datalog.write(csv_string) # write the f string out on microsoft excel sheet
+        datalog.write(csv_string) # write the f string out on a microsoft excel sheet
         datalog.flush() # record stuff to the datalog
         time.sleep(0.1)
 
@@ -100,7 +100,7 @@ while True:
 
 ## data
 
-At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps. MAKE AN XY-GRAPH TO SHOW ACCURATE FLIGHT PATH FOR NEXT LAUNCH.
+At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps. MAKE AN XY GRAPH TO SHOW AN ACCURATE FLIGHT PATH FOR THE NEXT LAUNCH.
 
 ![image](https://github.com/Cooper-Moreland/Pi_In_The_Sky/assets/71406906/fefe4328-a9b5-4556-852d-5f44a4295d63)
 
@@ -119,9 +119,9 @@ This is the data for our second launch with the x-values corresponding to total 
 
 ## obstacles
 
-I had exact sizing for the laser cut piece that held the pico to slide into the 3d printed rocket but 3d print isn't exact so we had to sand the acrylic to have it fit well. Having to wait for 10 blinks to indicate data mode is annoying, so I changed it to 5 blinks and reduced the total "time.sleep" value for the boot.py file, making the measurement of altitude more consistent. To switch between code and data mode unplug the pico or turn it off first then flip the switch connected to GP0. The time intervals for each altitude reading aren't exactly a second, I had to change the values of "time.sleep" to make it as accurate as possible, minimum time between readings seems to be about 0.6 seconds. The picowbell seems confusing but you just solder each pin to the corresponding one on the pico and wire it the exact same as on a regular breadboard. 3d print material prints thicker than it says in onshape so leave some room (about 0.4mm) between object if they need to slide in unpainfully.
+I had exact sizing for the laser cut piece that held the pico to slide into the 3d printed rocket but 3d print isn't exact so we had to sand the acrylic to have it fit well. Having to wait for 10 blinks to indicate data mode is annoying, so I changed it to 5 blinks and reduced the total "time.sleep" value for the boot.py file, making the measurement of altitude more consistent. To switch between code and data mode unplug the pico or turn it off first then flip the switch connected to GP0. The time intervals for each altitude reading aren't exactly a second, I had to change the values of "time.sleep" to make it as accurate as possible, minimum time between readings seems to be about 0.6 seconds. The picowbell seems confusing but you just solder each pin to the corresponding one on the pico and wire it the same as on a regular breadboard. 3d print material prints thicker than it says in onshape so leave some room (about 0.4mm) between objects if they need to slide in unpainfully.
 
 
 ## tips
 
-Leave a hole for the panel mount switch and led and a hole to unplug and replug the pico to fix any mistakes in the code. We left 0.18 inches of diameter in the PVC pipe because 3d print adds thickness. The holes for the screws are 2.8mm to have them have a snug fit so it can hold the cap onto the bottom of Chuck/the projectile. [A helpful website for the picowbell](https://learn.adafruit.com/picowbell-proto?view=all) which is the attachable breadboard to the pico via soldering. On the altimeter connect power to Vin not 3vo. The battery pack has its own switch to turn the whole system on and off so no need to wire a new panel mount switch. data mode for my boot.py file is 5 quick blinks, code mode is three long blinks.
+Leave a hole for the panel mount switch and led and a hole to unplug and replug the pico to fix any mistakes in the code. We left 0.18 inches of diameter in the PVC pipe because 3d print adds thickness. The holes for the screws are 2.8mm to have them have a snug fit so they can hold the cap onto the bottom of Chuck/the projectile. [A helpful website for the picowbell](https://learn.adafruit.com/picowbell-proto?view=all) which is the attachable breadboard to the pico via soldering. On the altimeter connect power to Vin not 3vo. The battery pack has its own switch to turn the whole system on and off so no need to wire a new panel mount switch. data mode for my boot.py file is 5 quick blinks, code mode is three long blinks.
