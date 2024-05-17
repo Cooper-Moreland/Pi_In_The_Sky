@@ -102,7 +102,7 @@ while True:
 
 ## data
 
-At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps. MAKE AN XY GRAPH TO SHOW AN ACCURATE FLIGHT PATH FOR THE NEXT LAUNCH.
+At 80 psi with an angle of around 45 degrees, the bird had a horizontal displacement of around 11-12 steps.
 
 ![image](https://github.com/Cooper-Moreland/Pi_In_The_Sky/assets/71406906/fefe4328-a9b5-4556-852d-5f44a4295d63)
 
